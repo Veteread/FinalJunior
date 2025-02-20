@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 7c7095e7a2b2be1438a5b8c83b4b0087
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Back_R
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 660
+        width: 67
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74741663230e281448509227b9e954e7
+      internalID: -480056890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Right
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 662
+        width: 83
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cbbe1790f2d304980e1d23cb429f76
+      internalID: 1125118851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Front_R
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 663
+        width: 66
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4dc7b2815ad5242907000ad8df388c
+      internalID: 854135720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Back_R2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 580
+        width: 62
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4366386a71c76884d916d4b98b7d1965
+      internalID: -495529414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Right2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 583
+        width: 68
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c27edb65cf74b44c80d7bbbe8283677
+      internalID: 1156271514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Front_R2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 583
+        width: 57
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bb62651e029d749a3e08242e2f5c89
+      internalID: 2130987853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Back_R3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 500
+        width: 66
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec26490473ae514ca9526eefbdffb53
+      internalID: -228573774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Right3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 505
+        width: 84
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8488f538507bcba40870f5f167add327
+      internalID: -874906429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Front_R3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 505
+        width: 64
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ad3e6caafe50043a69d9eabea04a5d
+      internalID: -295600590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Back_R4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 429
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d160fa9c67d4a4c82ae3fd1e853ff6
+      internalID: 548613025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Right4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 431
+        width: 77
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c9670d5e8b9f44b94afb275fd9ec3e
+      internalID: 1401663032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Front_R4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 432
+        width: 67
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caee7c5200f8904c906354deb089e7c
+      internalID: 1578761008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Back_R_H
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 100
+        width: 66
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11509a3e367d474190d45f9e4e4bc0a
+      internalID: -1935713103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Right_H
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 102
+        width: 75
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6892dcbb743cd4d4582d04c8669d65a0
+      internalID: 1297069142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Front_R_H
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 103
+        width: 59
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf368c1bc99c90e45a577aec1a401579
+      internalID: 387119963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy2_0: -53125365
+      Enemy2_10: 875431658
+      Enemy2_14: -1053026895
+      Enemy2_15: 1413187055
+      Enemy2_19: -2096336532
+      Enemy2_20: -1102535006
+      Enemy2_21: 707532634
+      Enemy2_22: 728548507
+      Enemy2_23: -1411242792
+      Enemy2_24: 544764347
+      Enemy2_26: -134629430
+      Enemy2_27: 1891801539
+      Enemy2_28: -1552954052
+      Enemy2_29: -912729000
+      Enemy2_30: -653587790
+      Enemy2_31: -310085476
+      Enemy2_32: -1467018337
+      Enemy2_34: 1352644580
+      Enemy2_35: -2105490012
+      Enemy2_36: -1999348523
+      Enemy2_37: 34701507
+      Enemy2_38: 1254172228
+      Enemy2_39: -1216171477
+      Enemy2_4: -1558966768
+      Enemy2_40: -1658710221
+      Enemy2_42: -888859953
+      Enemy2_43: -2064973661
+      Enemy2_44: 1266299089
+      Enemy2_48: 1317880
+      Enemy2_49: 1167328177
+      Enemy2_5: -607682792
+      Enemy2_50: -814423030
+      Enemy2_51: 1087879763
+      Enemy2_52: -608020244
+      Enemy2_53: 954493893
+      Enemy2_54: -2038741840
+      Enemy2_55: -930354027
+      Enemy2_9: -2014531485
+      Enemy_Back_R: -480056890
+      Enemy_Back_R2: -495529414
+      Enemy_Back_R3: -228573774
+      Enemy_Back_R4: 548613025
+      Enemy_Back_R_H: -1935713103
+      Enemy_Front_R: 854135720
+      Enemy_Front_R2: 2130987853
+      Enemy_Front_R3: -295600590
+      Enemy_Front_R4: 1578761008
+      Enemy_Front_R_H: 387119963
+      Enemy_Right: 1125118851
+      Enemy_Right2: 1156271514
+      Enemy_Right3: -874906429
+      Enemy_Right4: 1401663032
+      Enemy_Right_AT: -1985848974
+      Enemy_Right_AT2: -503902228
+      Enemy_Right_AT3: 644520280
+      Enemy_Right_H: 1297069142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
